@@ -1,0 +1,9 @@
+{
+  "arginine": {},
+  "histidine": {},
+  "tyrosine": {
+    "tla": "tyr",
+    "sla": "y",
+    "type": "hydrophobic"
+  }
+}
