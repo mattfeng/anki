@@ -1,9 +1,118 @@
 {
-  "arginine": {},
-  "histidine": {},
+  "alanine": {
+    "tla": "ala",
+    "sla": "a",
+    "type": "hydrophobic"
+  },
+  "arginine": {
+    "tla": "arg",
+    "sla": "r",
+    "type": "basic; positively charged"
+  },
+  "asparagine": {
+    "tla": "asn",
+    "sla": "n",
+    "type": "polar uncharged"
+  },
+  "aspartic acid": {
+    "tla": "asp",
+    "sla": "d",
+    "type": "acidic; negatively charged"
+  },
+  "cysteine": {
+    "sla": "cys",
+    "tla": "c",
+    "type": "polar uncharged"
+  },
+  "glutamine": {
+    "tla": "gln",
+    "sla": "q",
+    "type": "polar uncharged"
+  },
+  "glutamic acid": {
+    "tla": "glu",
+    "sla": "e",
+    "type": "acidic; negatively charged"
+  },
+  "glycine": {
+    "tla": "gly",
+    "sla": "g",
+    "type": "hydrophobic"
+  },
+  "histidine": {
+    "tla": "his",
+    "sla": "h",
+    "type": "basic; positively charged"
+  },
+  "isoleucine": {
+    "tla": "ile",
+    "sla": "i",
+    "type": "hydrophobic"
+  },
+  "leucine": {
+    "tla": "leu",
+    "sla": "l",
+    "type": "hydrophobic"
+  },
+  "lysine": {
+    "tla": "lys",
+    "sla": "k",
+    "type": "basic; positively charged"
+  },
+  "methionine": {
+    "tla": "met",
+    "sla": "m",
+    "type": "hydrophobic"
+  },
+  "phenylalanine": {
+    "tla": "phe",
+    "sla": "f",
+    "type": "hydrophobic"
+  },
+  "proline": {
+    "tla": "pro",
+    "sla": "p",
+    "type": "hydrophobic"
+  },
+  "serine": {
+    "tla": "ser",
+    "sla": "s",
+    "type": "polar uncharged"
+  },
+  "threonine": {
+    "tla": "thr",
+    "sla": "t",
+    "type": "polar uncharged"
+  },
+  "tryptophan": {
+    "tla": "trp",
+    "sla": "w",
+    "type": "hydrophobic"
+  },
   "tyrosine": {
     "tla": "tyr",
     "sla": "y",
     "type": "hydrophobic"
+  },
+  "valine": {
+    "tla": "val",
+    "sla": "v",
+    "type": "hydrophobic"
+  },
+  "aspartic acid or asparagine": {
+    "tla": "asx",
+    "sla": "b"
+  },
+  "glutamic acid or glutamine": {
+    "tla": "glz",
+    "sla": "z"
+  },
+  "leucine or isoleucine": {
+    "tla": "xle",
+    "sla": "j"
+  },
+  "any amino acid": {
+    "tla": "xaa",
+    "sla": "x"
   }
 }
